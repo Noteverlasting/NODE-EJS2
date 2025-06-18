@@ -1,0 +1,29 @@
+{
+  "name": "node_5-ejs",
+  "version": "1.0.0",
+  "description": "Ejercicio basico de plantillas ejs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node --watch app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Noteverlasting/NODE-EJS.git"
+  },
+  "keywords": [
+    "EJS",
+    "node",
+    "express"
+  ],
+  "author": "Omar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Noteverlasting/NODE-EJS/issues"
+  },
+  "homepage": "https://github.com/Noteverlasting/NODE-EJS#readme",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^5.1.0"
+  }
+}

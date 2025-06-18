@@ -1,0 +1,39 @@
+[
+    {
+        "ruta": "cursos",
+        "title": "Pagina principal de cursos",
+        "h1": "Bienvenido a nuestros cursos",
+        "descripcion": "Aprende a programar de manera efectiva y rápida",
+        "img": "https://http.cat/images/200.jpg"
+    },
+    {
+        "ruta": "alumnos",
+        "title": "Alumnos de cursos",
+        "h1": "Opiniones de nuestros alumnos",
+        "descripcion": "Experiencias de nuestros alumnos en nuestros cursos",
+        "img": "https://http.cat/images/417.jpg"
+
+    },
+    {
+        "ruta": "nosotros",
+        "title": "Sobre nosotros",
+        "h1": "Conoce a nuestro equipo",
+        "descripcion": "Te presentamos a las personas que trabajan en nuestra empresa",
+        "img": "https://http.cat/images/429.jpg"
+    },
+    {
+        "ruta": "contacto",
+        "title": "Servicio técnico",
+        "h1": "Dudas? Problemas? No te piques",
+        "descripcion": "Contacta a nuestro servicio técnico",
+        "img": "https://media.pagina7.cl/2021/02/DT1j_BQX4AA4RMK.jpg"
+    },
+    {
+        "ruta": "samba",
+        "title": "Samba!",
+        "h1": "Samba? Samba!",
+        "descripcion": "s a m b a",
+        "img": "https://media.tenor.com/tuZF39hAN84AAAAi/cwif-wif.gif"
+    }
+    
+]
