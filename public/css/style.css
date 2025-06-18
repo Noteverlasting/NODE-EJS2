@@ -12,6 +12,14 @@ body {
   flex-direction: column;
 }
 
+.bodyBlanco{
+  background-color: none;
+}
+
+.bodyNada {
+  background-color: rgb(0, 0, 0);
+}
+
 ul{
   display: flex;
   flex-direction: row;

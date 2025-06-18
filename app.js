@@ -34,13 +34,13 @@ app.get("/", (req, res) => {
 app.get("/nada", (req, res) => {
   res
     .status(404)
-    .render("404", { title: "Ves? No hay nada", h1: "No hay nada :(", datos: jsonDatos});
+    .render("404", { bodyClass: "bodyNada",title: "Ves? No hay nada", h1: "No hay nada :(", datos: jsonDatos});
 });
 
 app.use((req, res) => {
   res
     .status(404)
-    .render("404", { title: "404", h1: "404 página no encontrada", datos: jsonDatos});
+    .render("404", { bodyClass: "bodyBlanco", title: "404", h1: "404 página no encontrada", datos: jsonDatos});
 });
 
 app.listen(PORT, () => {
